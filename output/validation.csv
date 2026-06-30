@@ -1,0 +1,321 @@
+id,count,image_path,density_class,label
+1939,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001939.jpg,Medium,2
+1311,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001311.jpg,Medium,2
+1356,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001356.jpg,Very Low,4
+869,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000869.jpg,Very Low,4
+1380,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001380.jpg,Low,1
+1431,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001431.jpg,High,0
+1304,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001304.jpg,Medium,2
+1815,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001815.jpg,High,0
+62,16,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000062.jpg,Very Low,4
+380,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000380.jpg,Low,1
+329,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000329.jpg,Medium,2
+429,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000429.jpg,Medium,2
+599,15,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000599.jpg,Very Low,4
+558,21,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000558.jpg,Very Low,4
+1219,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001219.jpg,Low,1
+1164,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001164.jpg,High,0
+1083,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001083.jpg,Medium,2
+1944,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001944.jpg,Low,1
+1481,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001481.jpg,Very Low,4
+603,18,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000603.jpg,Very Low,4
+589,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000589.jpg,Very Low,4
+1239,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001239.jpg,High,0
+1982,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001982.jpg,Low,1
+935,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000935.jpg,High,0
+1783,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001783.jpg,High,0
+1941,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001941.jpg,Medium,2
+1707,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001707.jpg,Medium,2
+1324,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001324.jpg,High,0
+795,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000795.jpg,Low,1
+1464,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001464.jpg,Medium,2
+961,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000961.jpg,High,0
+208,24,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000208.jpg,Very Low,4
+205,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000205.jpg,Medium,2
+1634,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001634.jpg,Low,1
+880,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000880.jpg,Medium,2
+759,43,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000759.jpg,Very High,3
+146,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000146.jpg,High,0
+1656,47,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001656.jpg,Very High,3
+1092,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001092.jpg,Low,1
+896,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000896.jpg,High,0
+1584,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001584.jpg,Medium,2
+73,46,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000073.jpg,Very High,3
+1138,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001138.jpg,Very High,3
+1708,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001708.jpg,Medium,2
+1503,19,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001503.jpg,Very Low,4
+1465,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001465.jpg,High,0
+75,48,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000075.jpg,Very High,3
+934,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000934.jpg,High,0
+1966,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001966.jpg,Medium,2
+588,24,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000588.jpg,Very Low,4
+1841,40,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001841.jpg,Very High,3
+1538,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001538.jpg,High,0
+1756,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001756.jpg,Medium,2
+1460,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001460.jpg,Medium,2
+1677,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001677.jpg,Low,1
+128,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000128.jpg,Medium,2
+1872,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001872.jpg,Very High,3
+1869,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001869.jpg,Medium,2
+1637,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001637.jpg,High,0
+1546,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001546.jpg,Very High,3
+1052,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001052.jpg,Medium,2
+1715,42,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001715.jpg,Very High,3
+1129,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001129.jpg,High,0
+1434,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001434.jpg,Very High,3
+1226,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001226.jpg,Low,1
+238,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000238.jpg,Medium,2
+1610,45,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001610.jpg,Very High,3
+1748,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001748.jpg,Low,1
+1390,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001390.jpg,High,0
+1884,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001884.jpg,Medium,2
+887,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000887.jpg,Very Low,4
+614,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000614.jpg,Medium,2
+181,53,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000181.jpg,Very High,3
+378,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000378.jpg,Low,1
+910,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000910.jpg,Very High,3
+462,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000462.jpg,Very Low,4
+1599,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001599.jpg,High,0
+1177,48,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001177.jpg,Very High,3
+1412,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001412.jpg,Very Low,4
+1388,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001388.jpg,Very Low,4
+1426,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001426.jpg,High,0
+626,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000626.jpg,Very Low,4
+1993,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001993.jpg,Low,1
+1288,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001288.jpg,Low,1
+864,24,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000864.jpg,Very Low,4
+629,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000629.jpg,Very Low,4
+1054,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001054.jpg,Medium,2
+1718,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001718.jpg,Very High,3
+919,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000919.jpg,Very High,3
+1945,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001945.jpg,Very Low,4
+1047,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001047.jpg,Very Low,4
+1861,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001861.jpg,Medium,2
+68,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000068.jpg,High,0
+1385,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001385.jpg,Very Low,4
+419,40,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000419.jpg,Very High,3
+1374,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001374.jpg,Medium,2
+51,19,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000051.jpg,Very Low,4
+1838,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001838.jpg,High,0
+290,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000290.jpg,Medium,2
+177,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000177.jpg,High,0
+1124,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001124.jpg,Medium,2
+537,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000537.jpg,Very Low,4
+1422,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001422.jpg,Medium,2
+1906,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001906.jpg,High,0
+1200,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001200.jpg,Low,1
+215,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000215.jpg,Low,1
+218,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000218.jpg,Medium,2
+1483,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001483.jpg,Very Low,4
+1943,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001943.jpg,Low,1
+22,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000022.jpg,Low,1
+1731,47,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001731.jpg,Very High,3
+58,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000058.jpg,Low,1
+1927,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001927.jpg,High,0
+1771,21,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001771.jpg,Very Low,4
+783,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000783.jpg,Low,1
+390,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000390.jpg,Very High,3
+1759,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001759.jpg,Low,1
+1551,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001551.jpg,Very High,3
+766,46,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000766.jpg,Very High,3
+791,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000791.jpg,Medium,2
+57,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000057.jpg,Very Low,4
+1370,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001370.jpg,Low,1
+1463,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001463.jpg,Medium,2
+979,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000979.jpg,High,0
+1340,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001340.jpg,Very High,3
+779,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000779.jpg,Medium,2
+1497,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001497.jpg,Very Low,4
+1071,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001071.jpg,High,0
+1597,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001597.jpg,Medium,2
+1933,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001933.jpg,Low,1
+1647,40,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001647.jpg,Very High,3
+447,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000447.jpg,Very Low,4
+683,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000683.jpg,Low,1
+292,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000292.jpg,Very High,3
+477,18,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000477.jpg,Very Low,4
+912,42,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000912.jpg,Very High,3
+965,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000965.jpg,Low,1
+921,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000921.jpg,Medium,2
+1353,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001353.jpg,Low,1
+848,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000848.jpg,Very Low,4
+112,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000112.jpg,Low,1
+244,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000244.jpg,High,0
+1688,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001688.jpg,High,0
+461,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000461.jpg,Very Low,4
+1317,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001317.jpg,Low,1
+784,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000784.jpg,Low,1
+107,21,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000107.jpg,Very Low,4
+163,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000163.jpg,High,0
+941,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000941.jpg,Low,1
+678,24,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000678.jpg,Very Low,4
+1378,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001378.jpg,Low,1
+1156,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001156.jpg,Low,1
+1421,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001421.jpg,Low,1
+995,44,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000995.jpg,Very High,3
+970,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000970.jpg,Medium,2
+350,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000350.jpg,High,0
+471,16,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000471.jpg,Very Low,4
+882,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000882.jpg,Low,1
+482,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000482.jpg,Medium,2
+1754,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001754.jpg,Medium,2
+957,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000957.jpg,Medium,2
+159,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000159.jpg,Low,1
+212,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000212.jpg,Low,1
+333,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000333.jpg,Medium,2
+383,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000383.jpg,Medium,2
+998,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000998.jpg,Very High,3
+513,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000513.jpg,Low,1
+1292,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001292.jpg,Low,1
+1997,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001997.jpg,Low,1
+304,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000304.jpg,Very Low,4
+79,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000079.jpg,High,0
+1451,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001451.jpg,Medium,2
+95,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000095.jpg,Medium,2
+1607,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001607.jpg,High,0
+401,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000401.jpg,Low,1
+1159,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001159.jpg,Low,1
+901,45,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000901.jpg,Very High,3
+1567,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001567.jpg,Medium,2
+1400,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001400.jpg,High,0
+187,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000187.jpg,Very High,3
+839,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000839.jpg,Medium,2
+1266,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001266.jpg,High,0
+1420,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001420.jpg,Low,1
+1550,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001550.jpg,Very High,3
+1117,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001117.jpg,Low,1
+954,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000954.jpg,High,0
+226,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000226.jpg,Low,1
+313,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000313.jpg,Medium,2
+1796,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001796.jpg,Very Low,4
+1533,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001533.jpg,Very Low,4
+725,46,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000725.jpg,Very High,3
+697,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000697.jpg,Medium,2
+1043,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001043.jpg,Very Low,4
+1511,19,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001511.jpg,Very Low,4
+465,17,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000465.jpg,Very Low,4
+1126,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001126.jpg,Medium,2
+117,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000117.jpg,High,0
+986,40,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000986.jpg,Very High,3
+1996,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001996.jpg,Low,1
+1401,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001401.jpg,High,0
+97,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000097.jpg,Low,1
+293,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000293.jpg,Very High,3
+1850,45,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001850.jpg,Very High,3
+940,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000940.jpg,Low,1
+801,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000801.jpg,High,0
+895,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000895.jpg,Medium,2
+526,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000526.jpg,Very Low,4
+1313,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001313.jpg,Very Low,4
+1111,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001111.jpg,High,0
+1682,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001682.jpg,Medium,2
+1360,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001360.jpg,Low,1
+1792,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001792.jpg,Low,1
+1277,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001277.jpg,Low,1
+604,19,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000604.jpg,Very Low,4
+1037,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001037.jpg,High,0
+70,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000070.jpg,High,0
+1983,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001983.jpg,High,0
+388,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000388.jpg,Medium,2
+688,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000688.jpg,Medium,2
+1810,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001810.jpg,Very High,3
+1250,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001250.jpg,Medium,2
+1461,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001461.jpg,Medium,2
+1719,45,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001719.jpg,Very High,3
+326,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000326.jpg,Medium,2
+857,21,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000857.jpg,Very Low,4
+1730,48,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001730.jpg,Very High,3
+1425,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001425.jpg,High,0
+1393,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001393.jpg,Very High,3
+152,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000152.jpg,Low,1
+1670,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001670.jpg,Very Low,4
+348,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000348.jpg,Very High,3
+182,47,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000182.jpg,Very High,3
+1878,40,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001878.jpg,Very High,3
+993,42,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000993.jpg,Very High,3
+300,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000300.jpg,Very High,3
+727,47,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000727.jpg,Very High,3
+1310,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001310.jpg,Low,1
+351,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000351.jpg,Medium,2
+1685,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001685.jpg,Medium,2
+431,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000431.jpg,Medium,2
+781,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000781.jpg,Low,1
+1166,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001166.jpg,Medium,2
+1196,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001196.jpg,Low,1
+913,42,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000913.jpg,Very High,3
+805,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000805.jpg,Medium,2
+835,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000835.jpg,Very Low,4
+319,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000319.jpg,Very High,3
+1379,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001379.jpg,Low,1
+1237,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001237.jpg,High,0
+902,46,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000902.jpg,Very High,3
+331,21,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000331.jpg,Very Low,4
+353,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000353.jpg,Medium,2
+478,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000478.jpg,Very Low,4
+1469,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001469.jpg,Medium,2
+262,18,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000262.jpg,Very Low,4
+1605,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001605.jpg,Medium,2
+1537,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001537.jpg,Medium,2
+1101,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001101.jpg,Medium,2
+960,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000960.jpg,Medium,2
+686,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000686.jpg,High,0
+772,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000772.jpg,Medium,2
+1786,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001786.jpg,Very High,3
+1969,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001969.jpg,Low,1
+1580,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001580.jpg,Very High,3
+1797,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001797.jpg,Low,1
+850,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000850.jpg,Very Low,4
+1858,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001858.jpg,Medium,2
+1866,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001866.jpg,Medium,2
+1022,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001022.jpg,High,0
+818,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000818.jpg,Low,1
+894,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000894.jpg,Low,1
+886,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000886.jpg,Very Low,4
+1151,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001151.jpg,High,0
+1430,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001430.jpg,High,0
+1889,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001889.jpg,Medium,2
+1055,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001055.jpg,High,0
+1415,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001415.jpg,Very Low,4
+1716,45,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001716.jpg,Very High,3
+528,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000528.jpg,Very Low,4
+467,16,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000467.jpg,Very Low,4
+1589,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001589.jpg,Low,1
+1836,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001836.jpg,Medium,2
+1027,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001027.jpg,Low,1
+891,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000891.jpg,Very Low,4
+337,32,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000337.jpg,Medium,2
+2,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000002.jpg,Very High,3
+751,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000751.jpg,High,0
+1358,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001358.jpg,Low,1
+1509,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001509.jpg,Very Low,4
+489,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000489.jpg,Very Low,4
+1512,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001512.jpg,Very Low,4
+456,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000456.jpg,Very Low,4
+495,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000495.jpg,Very Low,4
+1737,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001737.jpg,Very High,3
+1408,27,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001408.jpg,Low,1
+1348,41,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001348.jpg,Very High,3
+1862,34,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001862.jpg,High,0
+172,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000172.jpg,Low,1
+377,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000377.jpg,Low,1
+789,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000789.jpg,Low,1
+1936,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001936.jpg,Medium,2
+609,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000609.jpg,Very Low,4
+275,35,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000275.jpg,High,0
+618,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000618.jpg,Low,1
+859,25,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000859.jpg,Very Low,4
+332,22,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000332.jpg,Very Low,4
+1438,30,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001438.jpg,Medium,2
+201,31,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000201.jpg,Medium,2
+1263,26,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001263.jpg,Low,1
+1475,20,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001475.jpg,Very Low,4
+1275,33,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001275.jpg,Medium,2
+1386,23,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001386.jpg,Very Low,4
+1019,38,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001019.jpg,Very High,3
+1622,37,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001622.jpg,High,0
+834,28,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000834.jpg,Low,1
+345,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000345.jpg,High,0
+1066,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001066.jpg,Very High,3
+1646,39,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001646.jpg,Very High,3
+1698,29,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_001698.jpg,Low,1
+415,36,/kaggle/input/datasets/fmena14/crowd-counting/frames/frames/seq_000415.jpg,High,0
